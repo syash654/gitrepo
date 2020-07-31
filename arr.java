@@ -12,6 +12,7 @@ class arr
 	int[] arr=new int[5];
 	for(i=0;i<x;i++)
 	{
+	System.out.println("origin");
 	System.out.println("new line");
 	System.out.println("ff");
 	arr[i]=sc.nextInt();
